@@ -15,6 +15,6 @@
     "pg": "^8.4.2",
     "pg-hstore": "^2.3.3",
     "pug": "2.0.0-beta11",
-    "sequelize": "^6.3.5"
+    "sequelize": "^6.28.2"
   }
 }
